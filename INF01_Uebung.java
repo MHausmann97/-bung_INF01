@@ -16,6 +16,7 @@ public class INF01_Uebung {
      */
     public static void main(String[] args) {
         // halllllo
+        //marlena stinkt
     }
     
 }
